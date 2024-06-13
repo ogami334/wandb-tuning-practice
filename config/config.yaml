@@ -1,0 +1,12 @@
+defaults:
+  - model: default
+  - trainer: default
+  - optimizer: adam
+
+# 全体の設定
+seed: 42
+batch_size: 512
+num_workers: 20
+use_da: True
+project_name: "cifar10_practice"
+entity_name: "ogami-academic"

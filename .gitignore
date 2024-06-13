@@ -1,0 +1,11 @@
+*.out
+outputs/
+wandb/
+results/
+__pycache__/
+env/
+.history/
+cifar-10-batches-py/
+cifar-10-python.tar.gz
+repeat_experiments.sh
+run_sweep.sh
